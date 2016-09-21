@@ -1,0 +1,397 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ShadowEngine.Collision" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAgAAAgQCAgAgAGAIIQBAAAAIgA=</HashCode>
+      <FileName>Collision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShadowEngine.EngineContent" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEAgAAAFAAAQAAAAAJAgEAQAAAAEARAAAAAAAIIBQ=</HashCode>
+      <FileName>ContentLoading\EngineContent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShadowEngine.DebugMode" Collapsed="true">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>DebugMode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShadowEngine.Globals" Collapsed="true">
+    <Position X="17" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIAAACAEBAAAAAAiAAAAIAAABAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Globals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShadowEngine.Helper" Collapsed="true">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAkAAQDAAAEAQQAAAAAAEAAABAAAAAAAA=</HashCode>
+      <FileName>Helper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShadowEngine.Input" Collapsed="true">
+    <Position X="20.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAQAAgQUAAAgEAAAAYAAAACAAASIAACCkAAg=</HashCode>
+      <FileName>Input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShadowEngine.User_32" Collapsed="true">
+    <Position X="20.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAgAAAAAAAAAAAAAAEAAAAAAAACQAAAAKQAA=</HashCode>
+      <FileName>OpenGL\Resolution.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShadowEngine.Resolution" Collapsed="true">
+    <Position X="24" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAQAQAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OpenGL\Resolution.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShadowEngine.Sprite" Collapsed="true">
+    <Position X="17" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAABEAAAAAAAAAAAAUAEEABEAAAAAIAAAAAAIA=</HashCode>
+      <FileName>Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShadowEngine.WinApi" Collapsed="true">
+    <Position X="22.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Winapi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShadowEngine.ContentLoading.Loader3DS" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>OKEwsmsghaFANwDI2cYrXszpRVIAVzCwcgdeqKuymg4=</HashCode>
+      <FileName>ContentLoading\Loader3DS.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ShadowEngine.ContentLoading.Mesh" Collapsed="true">
+    <Position X="17" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAIAEAABAIgAAACAAAAQAAAAEABAAAAAAAAAAAAA=</HashCode>
+      <FileName>ContentLoading\Mesh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShadowEngine.ContentLoading.Model" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAEAAACBAAAAAAAAAA=</HashCode>
+      <FileName>ContentLoading\Model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShadowEngine.ContentLoading.ModelContainer" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAIIAAAAAAAAAAAAAwEAAAABAAAA=</HashCode>
+      <FileName>ContentLoading\ModelContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShadowEngine.ContentLoading.OBJ" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AMCAIASAEABAABAYAQYIAAxAkAAAAgACBAgACAgAgCI=</HashCode>
+      <FileName>ContentLoading\OBJ.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ShadowEngine.ContentLoading.Texture" Collapsed="true">
+    <Position X="18.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAABAAgCAAAgABAAAAAAAAAACAgAAKgAAAAgAYAA=</HashCode>
+      <FileName>ContentLoading\Texture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShadowEngine.OpenGL.Fog" Collapsed="true">
+    <Position X="24" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OpenGL\Fog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShadowEngine.OpenGL.Lighting" Collapsed="true">
+    <Position X="22.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAEAAAAAAAAAAAAABAAAAAQCgAgAAgAIAAAEEAABBA=</HashCode>
+      <FileName>OpenGL\Lighting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShadowEngine.OpenGL.OpenGLControl" Collapsed="true">
+    <Position X="20.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQKCABAAAEAQAsAYIAAgAAAUgAECAgCACBICQAgsABI=</HashCode>
+      <FileName>OpenGL\OpenGLControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShadowEngine.OpenGL.OpenGLUtils" Collapsed="true">
+    <Position X="22.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQNAAAAg=</HashCode>
+      <FileName>OpenGL\OpenGLUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShadowEngine.Sound.AudioPlayback" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCAIAAgIAAEQAMgBAAAAAICAgAgIAIEAgAAABAQQAAA=</HashCode>
+      <FileName>Sound\AudioPlayback.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShadowEngine.VisualControls.Button" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAARAACAAgAAAgABCAAAAAAAAEAIAQAACFAAAQA=</HashCode>
+      <FileName>VisualControls\Button.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ShadowEngine.VisualControls.Control" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAACAIAAAAAAAAAQAAAABAgAAAAAAAAAAAAg=</HashCode>
+      <FileName>VisualControls\Control.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShadowEngine.VisualControls.Cursor" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEQAAEBAAAAAAgAgAAAAIAAAAAAAAACEAAAABgAAAAI=</HashCode>
+      <FileName>VisualControls\Cursor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShadowEngine.VisualControls.Edit" Collapsed="true">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAACAAAAAAgAAAAAAEAAAAQAAAEAIAQAACEAAEAA=</HashCode>
+      <FileName>VisualControls\Edit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ShadowEngine.VisualControls.Label" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAEAAAAAgAAAAAgAKAAAAAIQEAAAUAAAEgAAAA=</HashCode>
+      <FileName>VisualControls\Label.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ShadowEngine.VisualControls.Message" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACYBAAAEAAAAQgAAAAAACIAAAAAAAEAAAQAAAEAAIAA=</HashCode>
+      <FileName>VisualControls\Message.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ShadowEngine.VisualControls.Panel" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAIkCgAQAAAEAAAAA=</HashCode>
+      <FileName>VisualControls\Panel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ShadowEngine.VisualControls.TransparentButton" Collapsed="true">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAARAACAAhAAAgABCIAAAAAAAEAIAQAACFAAAQA=</HashCode>
+      <FileName>VisualControls\TransparentButton.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Struct Name="ShadowEngine.DEVMODE1" Collapsed="true">
+    <Position X="20.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgBAgAIwCAEAAFAABEAQAAAAGAAkyijABcAAAEkAAUA=</HashCode>
+      <FileName>OpenGL\Resolution.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ShadowEngine.Point3D" Collapsed="true">
+    <Position X="20.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAJgAQAAAAA=</HashCode>
+      <FileName>Structs.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ShadowEngine.Segment" Collapsed="true">
+    <Position X="22.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAgEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Structs.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ShadowEngine.CollisionPoint" Collapsed="true">
+    <Position X="17" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAACAAAAAQAAAAECAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Structs.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ShadowEngine.CollisionSegment" Collapsed="true">
+    <Position X="18.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAQYAAAECAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Structs.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ShadowEngine.Vector2" Collapsed="true">
+    <Position X="18.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAYAA=</HashCode>
+      <FileName>Structs.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ShadowEngine.Vector3" Collapsed="true">
+    <Position X="20.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAcAUAAAAAAAAAAAAAAADgAQAAYAE=</HashCode>
+      <FileName>Structs.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ShadowEngine.Matrix" Collapsed="true">
+    <Position X="17" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAIAAAAAAAAAAAACIAAEAAAAAAAAA=</HashCode>
+      <FileName>Structs.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ShadowEngine.ContentLoading.Vertex" Collapsed="true">
+    <Position X="22.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABJgAQAAAAA=</HashCode>
+      <FileName>ContentLoading\Structs.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ShadowEngine.ContentLoading.Face" Collapsed="true">
+    <Position X="22.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ContentLoading\Structs.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ShadowEngine.ContentLoading.MeshIndexed" Collapsed="true">
+    <Position X="18.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAEAEAAABAAAgAQAAAAAAAAAAAgEAAgAAAAAAA=</HashCode>
+      <FileName>ContentLoading\Structs.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ShadowEngine.ContentLoading.FaceIndexed" Collapsed="true">
+    <Position X="24" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAgAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>ContentLoading\Structs.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ShadowEngine.ContentLoading.TextureCoord" Collapsed="true">
+    <Position X="24" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>ContentLoading\Structs.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ShadowEngine.ContentLoading.TextureImage" Collapsed="true">
+    <Position X="17" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAwAAAAAAAAAAAAAAAABABAAAAAAA=</HashCode>
+      <FileName>ContentLoading\Texture.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="ShadowEngine.IColisionable" Collapsed="true">
+    <Position X="17" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IColisionable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ShadowEngine.ContentLoading.IModel" Collapsed="true">
+    <Position X="20.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>ContentLoading\IModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ShadowEngine.ContentLoading.IModelLoader" Collapsed="true">
+    <Position X="22.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ContentLoading\IModelLoader.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ShadowEngine.VisualControls.IControl" Collapsed="true">
+    <Position X="18.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAEAAAQAAAEAAAAA=</HashCode>
+      <FileName>VisualControls\IControl.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ShadowEngine.AltKey" Collapsed="true">
+    <Position X="18.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAEAIAAAAEAAAA=</HashCode>
+      <FileName>Input.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ShadowEngine.ContentLoading.TextureType" Collapsed="true">
+    <Position X="24" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAIAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ContentLoading\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ShadowEngine.ContentLoading.TextureFiltering" Collapsed="true">
+    <Position X="22.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAgAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ContentLoading\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ShadowEngine.VisualControls.Aligment" Collapsed="true">
+    <Position X="17" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAIAAA=</HashCode>
+      <FileName>VisualControls\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ShadowEngine.VisualControls.ECursor" Collapsed="true">
+    <Position X="20.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>VisualControls\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="ShadowEngine.VisualControls.OnClick" Collapsed="true">
+    <Position X="20.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VisualControls\Control.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="ShadowEngine.VisualControls.Function" Collapsed="true">
+    <Position X="17" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VisualControls\Control.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="ShadowEngine.VisualControls.FunctionParameter" Collapsed="true">
+    <Position X="18.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VisualControls\Control.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

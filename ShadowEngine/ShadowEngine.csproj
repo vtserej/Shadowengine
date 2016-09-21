@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D10DE849-4A86-4613-A357-5249C3642E39}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ShadowEngine</RootNamespace>
+    <AssemblyName>ShadowEngine</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.DirectX.AudioVideoPlayback, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>includes\Microsoft.DirectX.AudioVideoPlayback.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tao.OpenGl, Version=1.1.0.0, Culture=neutral, PublicKeyToken=346d62138898d8d4">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\includes\Tao.OpenGl 1.1\Tao.OpenGl.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Collision.cs" />
+    <Compile Include="ContentLoading\Enums.cs" />
+    <Compile Include="ContentLoading\GeometryModel.cs" />
+    <Compile Include="ContentLoading\Loader3DS.cs" />
+    <Compile Include="DebugMode.cs" />
+    <Compile Include="AppStrings.cs" />
+    <Compile Include="Globals.cs" />
+    <Compile Include="ContentLoading\ContentManager.cs" />
+    <Compile Include="ContentLoading\OBJ.cs" />
+    <Compile Include="ContentLoading\IModel.cs" />
+    <Compile Include="ContentLoading\Mesh.cs" />
+    <Compile Include="ContentLoading\Model.cs" />
+    <Compile Include="ContentLoading\ModelContainer.cs" />
+    <Compile Include="ContentLoading\IModelLoader.cs" />
+    <Compile Include="ContentLoading\Structs.cs" />
+    <Compile Include="ContentLoading\Texture.cs" />
+    <Compile Include="Helper.cs" />
+    <Compile Include="IColisionable.cs" />
+    <Compile Include="Input.cs" />
+    <Compile Include="OpenGL\GLFont.cs" />
+    <Compile Include="OpenGL\Lighting.cs" />
+    <Compile Include="OpenGL\Fog.cs" />
+    <Compile Include="OpenGL\OpenGLControl.cs" />
+    <Compile Include="OpenGL\OpenGLUtils.cs" />
+    <Compile Include="OpenGL\Resolution.cs" />
+    <Compile Include="Performance.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sound\AudioPlayback.cs" />
+    <Compile Include="Sprite.cs" />
+    <Compile Include="Structs.cs" />
+    <Compile Include="VisualControls\Button.cs" />
+    <Compile Include="VisualControls\Control.cs" />
+    <Compile Include="VisualControls\Cursor.cs" />
+    <Compile Include="VisualControls\Edit.cs" />
+    <Compile Include="VisualControls\Enums.cs" />
+    <Compile Include="VisualControls\IControl.cs" />
+    <Compile Include="VisualControls\Label.cs" />
+    <Compile Include="VisualControls\Message.cs" />
+    <Compile Include="VisualControls\Panel.cs" />
+    <Compile Include="VisualControls\TransparentButton.cs" />
+    <Compile Include="Winapi.cs" />
+    <Compile Include="WindowsControls\Button.cs" />
+    <Compile Include="WindowsControls\Control.cs" />
+    <Compile Include="WindowsControls\Cursor.cs" />
+    <Compile Include="WindowsControls\Edit.cs" />
+    <Compile Include="WindowsControls\Enums.cs" />
+    <Compile Include="WindowsControls\IControl.cs" />
+    <Compile Include="WindowsControls\Label.cs" />
+    <Compile Include="WindowsControls\Message.cs" />
+    <Compile Include="WindowsControls\Panel.cs" />
+    <Compile Include="WindowsControls\TransparentButton.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TodoList.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,40 @@
+D:\Vasily\Cujae\Proyectos aparte\engine\ShadowEngine\ShadowEngine\obj\Release\ResolveAssemblyReference.cache
+D:\Vasily\Cujae\Proyectos aparte\engine\ShadowEngine\ShadowEngine\bin\Release\ShadowEngine.dll
+D:\Vasily\Cujae\Proyectos aparte\engine\ShadowEngine\ShadowEngine\bin\Release\ShadowEngine.pdb
+D:\Vasily\Cujae\Proyectos aparte\engine\ShadowEngine\ShadowEngine\bin\Release\Microsoft.DirectX.AudioVideoPlayback.dll
+D:\Vasily\Cujae\Proyectos aparte\engine\ShadowEngine\ShadowEngine\bin\Release\Tao.OpenGl.dll
+D:\Vasily\Cujae\Proyectos aparte\engine\ShadowEngine\ShadowEngine\bin\Release\Microsoft.DirectX.dll
+D:\Vasily\Cujae\Proyectos aparte\engine\ShadowEngine\ShadowEngine\obj\Release\ShadowEngine.dll
+D:\Vasily\Cujae\Proyectos aparte\engine\ShadowEngine\ShadowEngine\obj\Release\ShadowEngine.pdb
+D:\Vasily\Cujae\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Release\ShadowEngine.dll
+D:\Vasily\Cujae\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Release\ShadowEngine.pdb
+D:\Vasily\Cujae\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Release\Tao.OpenGl.dll
+D:\Vasily\Cujae\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Release\ResolveAssemblyReference.cache
+D:\Vasily\Cujae\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Release\ShadowEngine.dll
+D:\Vasily\Cujae\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Release\ShadowEngine.pdb
+E:\Vasily\Cujae\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Release\ShadowEngine.dll
+E:\Vasily\Cujae\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Release\ShadowEngine.pdb
+E:\Vasily\Cujae\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Release\Tao.OpenGl.dll
+E:\Vasily\Cujae\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Release\ResolveAssemblyReference.cache
+E:\Vasily\Cujae\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Release\ShadowEngine.dll
+E:\Vasily\Cujae\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Release\ShadowEngine.pdb
+E:\Vasily\Work\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Release\ShadowEngine.dll
+E:\Vasily\Work\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Release\ShadowEngine.pdb
+E:\Vasily\Work\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Release\Tao.OpenGl.dll
+E:\Vasily\Work\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Release\ResolveAssemblyReference.cache
+E:\Vasily\Work\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Release\ShadowEngine.dll
+E:\Vasily\Work\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Release\ShadowEngine.pdb
+D:\salvas importantes\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Release\ShadowEngine.dll
+D:\salvas importantes\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Release\ShadowEngine.pdb
+D:\salvas importantes\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Release\Microsoft.DirectX.AudioVideoPlayback.dll
+D:\salvas importantes\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Release\Tao.OpenGl.dll
+D:\salvas importantes\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Release\Microsoft.DirectX.dll
+D:\salvas importantes\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Release\ResolveAssemblyReference.cache
+D:\salvas importantes\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Release\ShadowEngine.dll
+D:\salvas importantes\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Release\ShadowEngine.pdb
+G:\vasily\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Release\ShadowEngine.dll
+G:\vasily\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Release\ShadowEngine.pdb
+G:\vasily\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Release\Tao.OpenGl.dll
+G:\vasily\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Release\ShadowEngine.csprojResolveAssemblyReference.cache
+G:\vasily\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Release\ShadowEngine.dll
+G:\vasily\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Release\ShadowEngine.pdb
